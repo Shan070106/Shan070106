@@ -1,14 +1,14 @@
-# Hi there, I'm Shanmugam A! 👋
+# Hi there, I'm Shanmugam A! 
 
 > **"I am an enthusiastic engineer, exploring emerging technologies."**  
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 **AIML Engineering Student**
-- 💡 Passionate about Artificial Intelligence, Machine Learning, and Software Development
-- ✍️ Aspiring storyteller and creative writer
+-  **AIML Engineering Student**
+-  Passionate about Artificial Intelligence, Machine Learning, and Software Development
+-  Aspiring storyteller and creative writer
 
 ---
 
@@ -22,7 +22,7 @@
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 Here are a few projects I'm proud of:
 
@@ -34,15 +34,15 @@ Here are a few projects I'm proud of:
 
 ---
 
-## 🌱 Interests
+##  Interests
 
-- 📚 Story writing
-- 🧠 Exploring new technologies
-- 🤝 Open-source collaboration
+-  Story writing
+-  Exploring new technologies
+-  Open-source collaboration
 
 ---
 
-## 📬 Contact Me
+##  Contact Me
 
 - **Email:** kit27.am51@gmail.com  
 - **Phone:** +91 8056557382  
@@ -51,5 +51,5 @@ Here are a few projects I'm proud of:
 ---
 
 <!--
-**Shan070106/Shan070106** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Shan070106/Shan070106** is a special repository because its `README.md` (this file) appears on your GitHub profile.
 -->
