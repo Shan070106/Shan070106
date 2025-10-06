@@ -1,6 +1,5 @@
 <!-- Name Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Shanmugam%20A&desc=Software%20Engineer&textBg=false&animation=fadeIn&section=header&descSize=20&descAlign=50)
-> **"I am an enthusiastic engineer, exploring emerging technologies."**  
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Shanmugam;Software+Developer;AI/ML+Engineer)](https://git.io/typing-svg)> **"I am an enthusiastic engineer, exploring emerging technologies."**  
 
 ---
 
