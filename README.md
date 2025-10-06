@@ -5,16 +5,16 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🎓 **AIML Engineering Student**
-- 💡 Passionate about **Artificial Intelligence, Machine Learning, and Software Development**
-- ✍️ Aspiring storyteller and creative writer
-- 🚀 Always eager to learn, build, and collaborate
+-  **AIML Engineering Student**
+-  Passionate about **Artificial Intelligence, Machine Learning, and Software Development**
+-  Aspiring storyteller and creative writer
+-  Always eager to learn, build, and collaborate
 
 ---
 
-## 🧠 Skills & Technologies
+##  Skills & Technologies
 
 **Languages:**  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -31,7 +31,7 @@
 
 ---
 
-## 🧩 LeetCode Stats
+##  LeetCode Stats
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/SHANMUGAM_A?theme=dark&font=Source%20Code%20Pro&ext=contest)](https://leetcode.com/u/SHANMUGAM_A/)
 
@@ -39,7 +39,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Shan070106&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
