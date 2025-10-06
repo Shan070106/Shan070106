@@ -53,6 +53,6 @@ I am Shanmugam A, an enthusiastic AI & ML engineering student and software devel
   <img src="https://github-profile-trophy.vercel.app/?username=Shan070106&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
-![GitHub Contribution Chart](https://ghchart.rshah.org/Shan070106)
+##  Codolio Profile
+[![Codolio](https://codolio.com/profile/Shanmugam.A/card)](https://codolio.com/profile/Shanmugam.A)
 
-  
