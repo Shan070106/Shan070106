@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠️ Skills & Technologies
+##  Skills & Technologies
 
 **Languages:**  
 - C++ | Python | Java | JavaScript
