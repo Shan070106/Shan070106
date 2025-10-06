@@ -7,10 +7,7 @@
 
 ##  About Me
 
--  **AIML Engineering Student**
--  Passionate about **Artificial Intelligence, Machine Learning, and Software Development**
--  Aspiring storyteller and creative writer
--  Always eager to learn, build, and collaborate
+I am Shanmugam A, an enthusiastic AI & ML engineering student and software developer. I love exploring emerging technologies, solving challenging problems, and building meaningful projects. Passionate about full-stack development, data structures, and algorithms, I continuously strive to learn, grow, and contribute to open-source communities. Beyond coding, I enjoy creative writing and sharing knowledge through projects and tutorials.
 
 ---
 
