@@ -24,6 +24,9 @@
 ## 🧠 LeetCode Stats
 [![LeetCode Stats](https://leetcard.jacoblin.cool/SHANMUGAM_A?theme=dark&font=Source%20Code%20Pro&ext=contest)](https://leetcode.com/u/SHANMUGAM_A/)
 ---
+![LeetCode user](https://img.shields.io/badge/dynamic/json?label=LeetCode&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/SHANMUGAM_A&logo=leetcode&style=for-the-badge)
+---
+
 ##  Projects
 
 Here are a few projects I'm proud of:
