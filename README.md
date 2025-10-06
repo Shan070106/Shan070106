@@ -1,5 +1,5 @@
 <!-- Name Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Shanmugam%20A&textBg=false&animation=fadeIn&section=header&descSize=16&descAlign=0)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Shanmugam%20A&desc=Software%20Engineer&textBg=false&animation=fadeIn&section=header&descSize=20&descAlign=50)
 > **"I am an enthusiastic engineer, exploring emerging technologies."**  
 
 ---
