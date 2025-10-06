@@ -54,5 +54,6 @@ I am Shanmugam A, an enthusiastic AI & ML engineering student and software devel
 </p>
 
 ##  Codolio Profile
-[![Codolio](https://codolio.com/profile/Shanmugam.A/card)](https://codolio.com/profile/Shanmugam.A)
+[![Codolio](https://img.shields.io/badge/Codolio-View%20Profile-blue?style=for-the-badge&logo=Codio&logoColor=white)](https://codolio.com/profile/Shanmugam.A)
+
 
