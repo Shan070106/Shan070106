@@ -1,3 +1,5 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shanmugam%20A&fontSize=50&animation=fadeIn&fontAlignY=38)
+
 # Hi there, I'm Shanmugam A! 
 
 > **"I am an enthusiastic engineer, exploring emerging technologies."**  
