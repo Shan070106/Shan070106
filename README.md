@@ -1,10 +1,8 @@
-<!-- Name Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Shanmugam;Software+Developer;AI/ML+Engineer/?color=F724A9)](https://git.io/typing-svg)> 
-**"I am an enthusiastic engineer, exploring emerging technologies."**  
-
----
 
 ##  About Me
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Shanmugam%20A&desc=Software%20Engineer&textBg=false&animation=fadeIn&section=header&descSize=20&descAlign=50)
+
+**"I am an enthusiastic engineer, exploring emerging technologies."**  
 
 I am Shanmugam A, an enthusiastic AI & ML engineering student and software developer. I love exploring emerging technologies, solving challenging problems, and building meaningful projects. Passionate about full-stack development, data structures, and algorithms, I continuously strive to learn, grow, and contribute to open-source communities. Beyond coding, I enjoy creative writing and sharing knowledge through projects and tutorials.
 
