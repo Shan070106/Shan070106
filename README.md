@@ -1,5 +1,5 @@
 <!-- Name Banner -->
-![Header](https://capsule-render.vercel.app/api?type=cylinder&height=300&color=gradient&text=Shanmugam%20A&textBg=false&animation=fadeIn&section=header&descSize=16&descAlign=0)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Shanmugam%20A&textBg=false&animation=fadeIn&section=header&descSize=16&descAlign=0)
 > **"I am an enthusiastic engineer, exploring emerging technologies."**  
 
 ---
@@ -40,8 +40,6 @@ I am Shanmugam A, an enthusiastic AI & ML engineering student and software devel
 ##  LeetCode Stats
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/SHANMUGAM_A?theme=dark&font=Source%20Code%20Pro&ext=contest)](https://leetcode.com/u/SHANMUGAM_A/)
-
-![LeetCode user](https://img.shields.io/badge/dynamic/json?label=LeetCode&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/SHANMUGAM_A&logo=leetcode&style=for-the-badge)
 ![](https://leetcard.jacoblin.cool/SHANMUGAM_A?ext=heatmap)
 ---
 
@@ -49,7 +47,7 @@ I am Shanmugam A, an enthusiastic AI & ML engineering student and software devel
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Shan070106&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Shan070106&theme=react## 🏆 GitHub Trophies
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Shan070106&theme=react##  GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Shan070106&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
