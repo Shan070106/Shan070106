@@ -55,7 +55,7 @@ I am Shanmugam A, an enthusiastic AI & ML engineering student and software devel
 
 **GitHub Contribution Graph**
 
-[![Shanmugam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shan070106&theme=dracula)](https://github.com/Shan070106/github-readme-activity-graph)
+[![Shanmugam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shan070106&theme=github-compact)](https://github.com/Shan070106/github-readme-activity-graph)
 ---
 ##  Codolio Profile
 [![Codolio](https://img.shields.io/badge/Codolio-View%20Profile-blue?style=for-the-badge&logo=Codio&logoColor=white)](https://codolio.com/profile/Shanmugam.A)
