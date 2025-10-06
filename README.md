@@ -1,9 +1,9 @@
 
-##  About Me
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Shanmugam%20A&desc=Software%20Engineer&textBg=false&animation=fadeIn&section=header&descSize=20&descAlign=50)
 
 **"I am an enthusiastic engineer, exploring emerging technologies."**  
 
+##  About Me
 I am Shanmugam A, an enthusiastic AI & ML engineering student and software developer. I love exploring emerging technologies, solving challenging problems, and building meaningful projects. Passionate about full-stack development, data structures, and algorithms, I continuously strive to learn, grow, and contribute to open-source communities. Beyond coding, I enjoy creative writing and sharing knowledge through projects and tutorials.
 
 ---
@@ -34,6 +34,27 @@ I am Shanmugam A, an enthusiastic AI & ML engineering student and software devel
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-181717?style=for-the-badge&logo=github&logoColor=white)
 ---
+
+##  Projects
+
+Here are some of the projects I’ve built and contributed to:
+
+- [**Project HMA**](https://github.com/Shan070106/project_hma)  
+  *Innovative solutions for hospitality management — includes hotel booking automation and customer service tools.*
+
+- [**Hotel Menu App**](https://github.com/Shan070106/Hotel-Menu-app)  
+  *A streamlined digital menu system for restaurants and hotels, with QR code scanning and online ordering.*
+
+- [**Todo-App**](https://github.com/Shan070106/Todo-App)  
+  *A simple productivity application to manage tasks efficiently, built with React and Node.js.*
+
+- [**Job Search**](https://github.com/dhinakaran311/Job_Search) *(Collaborator)*  
+  *Helps users find job opportunities efficiently by aggregating listings and filtering based on preferences.*
+  
+- [**Expense Tracker**](https://github.com/Shan070106/Expense-Tracker)  
+  *A Java-based desktop application using Maven and MySQL that helps users manage their personal expenses efficiently. Features include adding, editing, and deleting expenses, categorizing spending, and generating reports.*
+
+
 
 ##  LeetCode Stats
 
