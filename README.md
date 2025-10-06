@@ -43,4 +43,11 @@
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Shan070106&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Shan070106&theme=react
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Shan070106&theme=react## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shan070106&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+
+  
