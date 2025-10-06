@@ -42,7 +42,7 @@ I am Shanmugam A, an enthusiastic AI & ML engineering student and software devel
 [![LeetCode Stats](https://leetcard.jacoblin.cool/SHANMUGAM_A?theme=dark&font=Source%20Code%20Pro&ext=contest)](https://leetcode.com/u/SHANMUGAM_A/)
 
 ![LeetCode user](https://img.shields.io/badge/dynamic/json?label=LeetCode&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/SHANMUGAM_A&logo=leetcode&style=for-the-badge)
-
+![](https://leetcard.jacoblin.cool/SHANMUGAM_A?ext=heatmap)
 ---
 
 ##  GitHub Stats
