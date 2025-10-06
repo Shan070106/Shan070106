@@ -21,7 +21,9 @@
 - React | Node.js | Express | MySQL | MongoDB
 
 ---
-
+## 🧠 LeetCode Stats
+[![LeetCode Stats](https://leetcard.jacoblin.cool/SHANMUGAM_A?theme=dark&font=Source%20Code%20Pro&ext=contest)](https://leetcode.com/u/SHANMUGAM_A/)
+---
 ##  Projects
 
 Here are a few projects I'm proud of:
