@@ -1,5 +1,5 @@
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Shanmugam%20A&desc=Software%20Engineer&textBg=false&animation=fadeIn&section=header&descSize=20&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Shanmugam%20A&textBg=false&animation=fadeIn&section=header&descSize=20&descAlign=50)
 
 **"I am an enthusiastic engineer, exploring emerging technologies."**  
 
@@ -58,7 +58,6 @@ Here are some of the projects I’ve built and contributed to:
 
 ##  LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/SHANMUGAM_A?theme=dark&font=Source%20Code%20Pro&ext=contest)](https://leetcode.com/u/SHANMUGAM_A/)
 ![](https://leetcard.jacoblin.cool/SHANMUGAM_A?ext=heatmap)
 ---
 
